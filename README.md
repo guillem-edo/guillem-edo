@@ -4,6 +4,10 @@ I am a passionate student of artificial intelligence and machine learning, const
 
 ## 🚀 Featured Projects
 
+- TICKET MANAGEMENT SYSTEM
+  
+A Python-based tool designed to track and manage incidents in production lines. It offers features like incident logging, advanced filtering, MTBF (Mean Time Between Failures) calculations, and interactive data visualizations. The system integrates with Excel for data management and includes user authentication for different access levels. Built with a PyQt5 GUI, it ensures data persistence across sessions, enabling efficient monitoring and troubleshooting in production environments.
+
 - PET FRIENDS - DISTRIBUTION
   
 The executive report enclosed herein offers an in-depth analysis of sales data from a veterinary product distribution company. It provides strategic recommendations and actionable insights aimed at enhancing profitability and operational efficiency.
